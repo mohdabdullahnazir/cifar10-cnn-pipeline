@@ -18,3 +18,5 @@ This project implements an end-to-end machine learning pipeline for CIFAR-10 ima
 
 The goal is to build a reproducible CNN pipeline for data preparation, preprocessing, training, evaluation, and versioning of datasets and model artifacts.
 
+
+Project maintained for Assignment 2.
