@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environments
+venv/
+.venv/
+env/
+
+# DVC local cache and temporary files
+.dvc/cache/
+.dvc/tmp/
+
+# Model artifacts handled by DVC
+*.pth
+*.h5
+
+# Credentials / secrets
+.env
+*.key
+credentials*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
