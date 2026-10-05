@@ -6,5 +6,5 @@ train:
   num_filters: 64
   dropout_rate: 0.35
   learning_rate: 0.001
-  epochs: 10
+  epochs: 15
   batch_size: 128

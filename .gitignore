@@ -31,3 +31,5 @@ Thumbs.db
 Screenshots/
 /models
 /confusion_matrix.png
+
+data/downloads/
