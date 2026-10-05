@@ -1,0 +1,6 @@
+outs:
+- md5: 6016e0470b7abaf94e413ed778254866.dir
+  size: 553321749
+  nfiles: 1
+  hash: md5
+  path: conflict_data
